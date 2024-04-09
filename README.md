@@ -4,7 +4,7 @@ Console game is, an RPG games, made by GlooKoosa, Swrdika. Written in JavaScript
 
 ## Installation
 
-Use NodeJS [ClickMe](https://pip.pypa.io/en/stable/) (Windows) to install NodeJS.
+Use NodeJS [ClickMe](https://nodejs.org/en/download) (Windows) to install NodeJS.
 
 ```javascript
 npm install
